@@ -29,6 +29,8 @@ void printPrime(int n)
 
 int main()
 {
-    int n = 7;
+    int n;
+    cout << "Enter n: ";
+    cin >> n;
     printPrime(n);
 }
