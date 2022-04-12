@@ -29,6 +29,7 @@ void printPrime(int n)
 
 int main()
 {
-    int n = 7;
+    // Print all primes up to 50
+    int n = 50;
     printPrime(n);
 }
