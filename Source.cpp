@@ -29,6 +29,7 @@ void printPrime(int n)
 
 int main()
 {
-    int n = 7;
+    int n;
+	cin>>n;
     printPrime(n);
 }
